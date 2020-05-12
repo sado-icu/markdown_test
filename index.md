@@ -1,6 +1,6 @@
 # マークダウンのテスト
 
-<font color=red>テスト</font>
+<font color="red">テスト</font>
 
 ## マークダウンのテスト
 
