@@ -38,7 +38,7 @@
     + リスト2-1
     + リスト2-2
 
- [note]http://www.icu.ac.jp
+ [ICU](http://www.icu.ac.jp "ICU")
 
  > 引用
 
